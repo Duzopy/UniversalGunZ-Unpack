@@ -1,0 +1,14 @@
+WFog Enabled Device.
+Vertex Shader isn't supported
+device created.
+Video memory 45.000000 
+Cloth VertexBuffer is Released
+Cloth VertexBuffer is Released
+Cloth VertexBuffer is Released
+Cloth VertexBuffer is Released
+Cloth VertexBuffer is Released
+Cloth VertexBuffer is Released
+Cloth VertexBuffer is Released
+Cloth VertexBuffer is Released
+Cloth VertexBuffer is Released
+Cloth VertexBuffer is Released

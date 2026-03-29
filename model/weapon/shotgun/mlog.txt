@@ -1,0 +1,4 @@
+WFog Enabled Device.
+Vertex Shader isn't supported
+device created.
+Video memory 45.000000 

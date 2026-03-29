@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+
+<!-- 맵 정보관련 -->
+<MAP id="0" MapName ="Mansion" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="1" MapName ="DusapposeRace" MapImageName= "map_Prison.bmp" BannerName = "banner_Prison.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="2" MapName ="SkillMapv30" MapImageName= "map_Station.bmp" BannerName = "banner_Station.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="3" MapName ="Prison II" MapImageName= "map_Prison II.bmp" BannerName = "banner_Prison II.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="4" MapName ="SkillMapv20" MapImageName= "map_Battle Arena.bmp" BannerName = "banner_Battle Arena.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="5" MapName ="Town" MapImageName= "map_Town.bmp" BannerName = "banner_Town.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="6" MapName ="Dungeon" MapImageName= "map_Dungeon.bmp" BannerName = "banner_Dungeon.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="7" MapName ="Gunz-Mart" MapImageName= "map_Ruin.bmp" BannerName = "banner_Ruin.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="8" MapName ="Island" MapImageName= "map_island.bmp" BannerName = "banner_island.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="9" MapName ="Garden" MapImageName= "map_Garden.bmp" BannerName = "banner_Garden.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="10" MapName ="Castle" MapImageName= "map_Castle.bmp" BannerName = "banner_Castle.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="11" MapName ="de_dust2" MapImageName= "map_Factory.bmp" BannerName = "banner_Factory.tga" ExpRatio ="0.8" MaxPlayers ="8" bOnlyDuelMap = "false"></MAP>
+<MAP id="12" MapName ="de_dust" MapImageName= "map_Port.bmp" BannerName = "banner_port.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="14" MapName ="Stairway" MapImageName= "map_Stairway.bmp" BannerName = "banner_Stairway.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="15" MapName ="Snow_Town" MapImageName= "map_Snow_Town.bmp" BannerName = "banner_Snow_Town.tga" ExpRatio ="1.5" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="16" MapName ="Hall" MapImageName= "map_mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="17" MapName ="Catacomb" MapImageName= "map_Dungeon.bmp" BannerName = "banner_Dungeon.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="18" MapName ="UltraSkillsV2" MapImageName= "map_Prison.bmp" BannerName = "banner_Prison.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="19" MapName ="Shower Room" MapImageName= "map_Prison II.bmp" BannerName = "banner_Prison II.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="20" MapName ="DusteRSkillTrail_V3" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="21" MapName ="DusteRskillTrailV1" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="22" MapName ="DusteRSkillTrail_V2" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="23" MapName ="eRing" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="24" MapName ="Arena" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="25" MapName ="SkillMap" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="26" MapName ="SkillMapV2" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="27" MapName ="SkillMapV3" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="28" MapName ="SkillmapV4" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="29" MapName ="StevensTDM" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="30" MapName ="MasterSkillerV2" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="31" MapName ="Star_Race" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="32" MapName ="House_Simpsons2" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="33" MapName ="SkillCityMap" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="34" MapName ="SkillMapSG V1" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="34" MapName ="SkillmapBlood" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="34" MapName ="SkillMapv30" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="34" MapName ="ChallengeMapV3" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="34" MapName ="Star_Race-II" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="34" MapName ="SkillMapSG Basic" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="34" MapName ="M_House" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="34" MapName ="cs_assault_new" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="34" MapName ="SkillMapSGV2" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<!-- 맵 정보관련 -->
+<MAP id="34" MapName ="MC_Skills_V1" MapImageName= "map_aaa.bmp" BannerName = "banner_aaa.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+</XML>

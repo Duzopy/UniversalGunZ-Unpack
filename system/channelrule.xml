@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<!--ChannelRule To Knight GunZ
+	GAMETYPE_DEATHMATCH_SOLO	= 0
+ 	GAMETYPE_DEATHMATCH_TEAM	= 1
+	GAMETYPE_GLADIATOR_SOLO		= 2
+	GAMETYPE_GLADIATOR_TEAM		= 3
+	GAMETYPE_ASSASSINATE		= 4
+	GAMETYPE_TRAINING		= 5
+	GAMETYPE_SURVIVAL		= 6
+	GAMETYPE_QUEST			= 7
+	GAMETYPE_BERSERKER		= 8 
+	GAMETYPE_DEATHMATCH_TEAM2	= 9
+	GAMETYPE_DEATHMATCH_DUEL	= 10
+-->
+
+<XML id="channelrule">
+
+	<CHANNELRULE id="0" name="novice">
+	    <GAMETYPE id="0" />			<!-- GAMETYPE_DEATHMATCH_SOLO -->
+        <GAMETYPE id="1" />			<!-- GAMETYPE_DEATHMATCH_TEAM -->
+	    <GAMETYPE id="9" />			<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+        <GAMETYPE id="2" />			<!-- GAMETYPE_GLADIATOR_SOLO -->
+	    <GAMETYPE id="3" />			<!-- GAMETYPE_GLADIATOR_TEAM -->
+        <GAMETYPE id="4" />			<!-- GAMETYPE_ASSASSINATE -->
+	    <GAMETYPE id="5" />			<!-- GAMETYPE_TRAINING -->
+
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<!-- <MAP name="Ruin" /> -->
+		<!-- <MAP name="Port" /> -->
+		<!-- <MAP name="Castle" /> -->
+		<!-- <MAP name="Dungeon" /> -->
+		<!-- <MAP name="Lost Shrine" /> -->
+		<!-- <MAP name="Stairway" /> -->
+		<!-- <MAP name="Snow_Town" /> -->
+	</CHANNELRULE>
+
+
+	<CHANNELRULE id="3" name="newbie">
+	    <GAMETYPE id="0" />			<!-- GAMETYPE_DEATHMATCH_SOLO -->
+        <GAMETYPE id="1" />			<!-- GAMETYPE_DEATHMATCH_TEAM -->
+	    <GAMETYPE id="9" />			<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+        <GAMETYPE id="2" />			<!-- GAMETYPE_GLADIATOR_SOLO -->
+	    <GAMETYPE id="3" />			<!-- GAMETYPE_GLADIATOR_TEAM -->
+        <GAMETYPE id="4" />			<!-- GAMETYPE_ASSASSINATE -->
+	    <GAMETYPE id="5" />			<!-- GAMETYPE_TRAINING -->
+
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<!-- <MAP name="Ruin" /> -->
+		<!-- <MAP name="Port" /> -->
+		<!-- <MAP name="Castle" /> -->
+		<!-- <MAP name="Dungeon" /> -->
+		<!-- <MAP name="Lost Shrine" /> -->
+		<!-- <MAP name="Stairway" /> -->
+		<!-- <MAP name="Snow_Town" /> -->
+	</CHANNELRULE>
+
+	<CHANNELRULE id="1" name="rookie">
+	    <GAMETYPE id="0" />			<!-- GAMETYPE_DEATHMATCH_SOLO -->
+        <GAMETYPE id="8" />			<!-- GAMETYPE_BERSERKER -->
+	    <GAMETYPE id="1" />			<!-- GAMETYPE_DEATHMATCH_TEAM -->
+        <GAMETYPE id="9" />			<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+	    <GAMETYPE id="10" />		<!-- GAMETYPE_DEATHMATCH_DUEL -->
+        <GAMETYPE id="2" />			<!-- GAMETYPE_GLADIATOR_SOLO -->
+	    <GAMETYPE id="3" />			<!-- GAMETYPE_GLADIATOR_TEAM -->
+        <GAMETYPE id="4" />			<!-- GAMETYPE_ASSASSINATE -->
+	    <GAMETYPE id="5" />			<!-- GAMETYPE_TRAINING -->
+
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<MAP name="Ruin" />
+		<MAP name="Port" />
+		<MAP name="Snow_Town" />
+		<!-- <MAP name="Castle" /> -->
+		<!-- <MAP name="Dungeon" /> -->
+		<!-- <MAP name="Lost Shrine" /> -->
+		<!-- <MAP name="Stairway" /> -->
+
+		<MAP name="Hall" />			<!-- Only DUEL -->
+		<MAP name="Catacomb" />		<!-- Only DUEL -->
+		<MAP name="Jail" />			<!-- Only DUEL -->
+		<MAP name="Shower Room" />	<!-- Only DUEL -->
+	</CHANNELRULE>
+
+
+	<CHANNELRULE id="2" name="mastery">
+	    <GAMETYPE id="0" />			<!-- GAMETYPE_DEATHMATCH_SOLO -->
+        <GAMETYPE id="8" />			<!-- GAMETYPE_BERSERKER -->
+	    <GAMETYPE id="1" />			<!-- GAMETYPE_DEATHMATCH_TEAM -->
+        <GAMETYPE id="9" />			<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+	    <GAMETYPE id="10" />		<!-- GAMETYPE_DEATHMATCH_DUEL -->
+        <GAMETYPE id="2" />			<!-- GAMETYPE_GLADIATOR_SOLO -->
+	    <GAMETYPE id="3" />			<!-- GAMETYPE_GLADIATOR_TEAM -->
+        <GAMETYPE id="4" />			<!-- GAMETYPE_ASSASSINATE -->
+	    <GAMETYPE id="5" />			<!-- GAMETYPE_TRAINING -->
+
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<MAP name="Ruin" />
+		<MAP name="Port" />
+		<MAP name="Castle" />
+		<MAP name="Dungeon" />
+		<MAP name="Snow_Town" />
+		<!-- <MAP name="Lost Shrine" /> -->
+		<!-- <MAP name="Stairway" /> -->
+
+		<MAP name="Hall" />			<!-- Only DUEL -->
+		<MAP name="Catacomb" />		<!-- Only DUEL -->
+		<MAP name="Jail" />			<!-- Only DUEL -->
+		<MAP name="Shower Room" />	<!-- Only DUEL -->
+	</CHANNELRULE>
+	
+
+	<CHANNELRULE id="4" name="elite">
+	    <GAMETYPE id="0" />			<!-- GAMETYPE_DEATHMATCH_SOLO -->
+        <GAMETYPE id="8" />			<!-- GAMETYPE_BERSERKER -->
+	    <GAMETYPE id="1" />			<!-- GAMETYPE_DEATHMATCH_TEAM -->
+        <GAMETYPE id="9" />			<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+	    <GAMETYPE id="10" />		<!-- GAMETYPE_DEATHMATCH_DUEL -->
+        <GAMETYPE id="2" />			<!-- GAMETYPE_GLADIATOR_SOLO -->
+	    <GAMETYPE id="3" />			<!-- GAMETYPE_GLADIATOR_TEAM -->
+        <GAMETYPE id="4" />			<!-- GAMETYPE_ASSASSINATE -->
+	    <GAMETYPE id="5" />			<!-- GAMETYPE_TRAINING -->
+
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<MAP name="Ruin" />
+		<MAP name="Port" />
+		<MAP name="Castle" />
+		<MAP name="Dungeon" />
+		<MAP name="Lost Shrine" />
+		<MAP name="Stairway" />
+		<MAP name="Snow_Town" />
+		<MAP name="Hall" />		
+		<MAP name="Catacomb" />	
+		<MAP name="Jail" />		
+		<MAP name="Shower Room" />
+		<MAP name="SkillMap" />		
+		<MAP name="SkillMapV2" />	
+		<MAP name="SkillMapV3" />
+                <MAP name="DusteRSkillTrail_V2" />	
+		<MAP name="DusteRskillTrailV1" />
+		<MAP name="DusteRSkillTrail_V3" />
+		<MAP name="StevensTDM" />
+		<MAP name="Star_Race" />
+		<MAP name="Athena" />
+		<MAP name="SkillCityMap" />
+		<MAP name="eRing" />
+		<MAP name="SkillmapV4" />
+		<MAP name="Event_Survivor" />
+	        <MAP name="House_Simpsons2" />
+		<MAP name="SkillCityMap" />
+		<MAP name="MasterSkillerV2" />
+		<MAP name="Arena" />		
+		<MAP name="UltraSkillsV2" />	
+		<MAP name="de_dust" />		
+		<MAP name="de_dust2" />
+		<MAP name="Gunz-Mart" />		
+		<MAP name="DusapposeRace" />	
+		<MAP name="ChallengeMapV3" />
+                <MAP name="ChallengeMapV2" />	
+		<MAP name="DusteRskillTrailV1" />
+		<MAP name="DusteRSkillTrail_V3" />
+		<MAP name="StevensTDM" />
+		<MAP name="Star_Race" />
+		<MAP name="Athena" />
+		<MAP name="SkillCityMap" />
+		<MAP name="eRing" />
+		<MAP name="SkillmapV4" />
+		<MAP name="Event_Survivor" />
+                <MAP name="SkillMapv30" />
+		<MAP name="SkillMapv20" />
+                <MAP name="SkillMapSG V1" />        
+                <MAP name="SkillmapBlood" /> 
+                <MAP name="SkillMapv30" />  
+                <MAP name="ChallengeMapV3" /> 
+                <MAP name="Star_Race-II" />
+                <MAP name="SkillMapSG Basic" />
+                <MAP name="M_House" />
+                <MAP name="cs_assault_new" />
+                <MAP name="SkillMapSGV2_new" />
+                <MAP name="MC_Skills_V1" />
+                <MAP name="MC_Skills_V2" />
+                <MAP name="MC_Skills_V3" />
+          </CHANNELRULE>
+	
+</XML>
